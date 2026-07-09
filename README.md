@@ -1,6 +1,4 @@
-# 🎓 Smart Campus — Mar Elias College, Kottappady
 
-A unified digital campus management platform built for **Mar Elias College, Kottappady**. It streamlines academic and administrative workflows for **students**, **faculty**, and **administrators** through a modern, role-based web application.
 
 ---
 
